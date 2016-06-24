@@ -1,6 +1,6 @@
 {
   "name": "redux-container-state-globalstate",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Enables access to global state in a local container created by redux-container-state",
   "main": "lib/index.js",
   "files": [
