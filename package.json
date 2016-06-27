@@ -1,6 +1,6 @@
 {
   "name": "redux-container-state-globalstate",
-  "version": "0.1.3",
+  "version": "0.3.1",
   "description": "Enables access to global state in a local container created by redux-container-state",
   "main": "lib/index.js",
   "files": [
@@ -54,6 +54,7 @@
     "eslint-plugin-jsx-a11y": "^1.2.0",
     "eslint-plugin-react": "^5.0.1",
     "react-redux": "^4.4.5",
+    "redux-container-state": "^0.3.1",
     "redux": "^3.5.2"
   }
 }
